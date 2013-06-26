@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 26 22:51:57 CEST 2013:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): Instanz a816c00e-013f-8241-c8fc-0000046f7c10
+für Datenbankverzeichnis /Users/franz/Downloads/db-derby/lib/filesDB mit Class Loader sun.misc.Launcher$AppClassLoader@7a9664a1
+Geladen aus file:/Users/franz/Downloads/db-derby/lib/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_45-b06-451-11M4406
+user.dir=/Users/franz/Downloads/db-derby/lib
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.7.5
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
