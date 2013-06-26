@@ -45,7 +45,6 @@ public class FileUtils {
  
         for (File file : fList){
             if (file.isFile()){
-                System.out.println(file.getAbsolutePath());
                 results.add(file.getAbsolutePath());
             } else if (file.isDirectory()){
                 listFilesAndFilesSubDirectories(file.getAbsolutePath());

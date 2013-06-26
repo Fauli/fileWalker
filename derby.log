@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 27 00:59:49 CEST 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-013f-82b6-dd45-00001dfa08e8 
+on database directory C:\Users\Franz\git\fileWalker\fileDB with class loader sun.misc.Launcher$AppClassLoader@82f60ce 
+Loaded from file:/C:/Users/Franz/git/fileWalker/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_25-b17
+user.dir=C:\Users\Franz\git\fileWalker
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
